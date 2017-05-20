@@ -1,0 +1,6 @@
+app-dir: .
+disk: 2048
+memory: 256
+name: workshop02
+framework: php
+
